@@ -67,3 +67,36 @@ nav ul{
     background-repeat: no-repeat;
     background-position: top left, bottom right;
 }
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+
+
+}
+.second-bg{
+    background-color: bisque;
+}
+.section-description{
+    font-size: 18px;
+    color: #3a3838;
+
+}
+.about{
+    border-radius: 10px;
+    padding: 90px 150px;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 130px;
+}
+.list-discription{
+    font-weight: 600;
+
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
